@@ -307,7 +307,7 @@ artifacts = {
     },
     "scala_proto_rules_guava": {
         "artifact": "com.google.guava:guava:31.1-jre",
-        "sha256": "1d044ebb866ef08b7d04e998b4260c9b52fab6e6d6b68d207859486bb3686cd5",
+        "sha256": "a42edc9cab792e39fe39bb94f3fca655ed157ff87a8af78e1d6ba5b07c4a00ab",
     },
     "scala_proto_rules_google_instrumentation": {
         "artifact": "com.google.instrumentation:instrumentation-api:0.3.0",
