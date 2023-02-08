@@ -318,39 +318,39 @@ artifacts = {
         "sha256": "c643fe8318b7c7405acec13ed98e8f634f917960b20486295efbc5a690bac694",
     },
     "scala_proto_rules_netty_codec_http": {
-        "artifact": "io.netty:netty-codec-http:4.1.87",
+        "artifact": "io.netty:netty-codec-http:4.1.87.Final",
         "sha256": "39368c15595b791dbe26e7639cf2e71b6647bab8838fa5781cf7a80762eac927",
     },
     "scala_proto_rules_netty_codec_socks": {
-        "artifact": "io.netty:netty-codec-socks:4.1.87",
+        "artifact": "io.netty:netty-codec-socks:4.1.87.Final",
         "sha256": "41a76a64514f8f8f50ab8527254073521394138e8a96191905e8c143368b2006",
     },
     "scala_proto_rules_netty_codec_http2": {
-        "artifact": "io.netty:netty-codec-http2:4.1.87",
+        "artifact": "io.netty:netty-codec-http2:4.1.87.Final",
         "sha256": "e5d01b8db385b23103de67d3666c6fa9fa144d42217a3c8266b2a5efe425f093",
     },
     "scala_proto_rules_netty_handler": {
-        "artifact": "io.netty:netty-handler:4.1.87",
+        "artifact": "io.netty:netty-handler:4.1.87.Final",
         "sha256": "31a20e1de13b06a677a4719fd5aa95635982114a32c1d034739a48cceada2383",
     },
     "scala_proto_rules_netty_buffer": {
-        "artifact": "io.netty:netty-buffer:4.1.87",
+        "artifact": "io.netty:netty-buffer:4.1.87.Final",
         "sha256": "4e3abdf4ddb8810f5fb4a2b57c9144407873b359faa1894007673ed1465dd3e8",
     },
     "scala_proto_rules_netty_transport": {
-        "artifact": "io.netty:netty-transport:4.1.87",
+        "artifact": "io.netty:netty-transport:4.1.87.Final",
         "sha256": "17ed465cf5b1579b72379e47be3ba7fccb09dda8d95d47c8d668118483b08f43",
     },
     "scala_proto_rules_netty_resolver": {
-        "artifact": "io.netty:netty-resolver:4.1.87",
+        "artifact": "io.netty:netty-resolver:4.1.87.Final",
         "sha256": "ee11d22d240b4b125edaed23ec7cc35ad9241b1b8fdd50630de20411ec345fc7",
     },
     "scala_proto_rules_netty_common": {
-        "artifact": "io.netty:netty-common:4.1.87",
+        "artifact": "io.netty:netty-common:4.1.87.Final",
         "sha256": "811443fc1411a9ef7c1f7b02a750e2a6688f1eec0ae7361ed07812a85d982c86",
     },
     "scala_proto_rules_netty_handler_proxy": {
-        "artifact": "io.netty:netty-handler-proxy:4.1.87",
+        "artifact": "io.netty:netty-handler-proxy:4.1.87.Final",
         "sha256": "65276b2ab687b1b7c1ceabcc941d6e2cce1038f35b581218d7dbf46b16c5b4ac",
     },
     "scala_proto_rules_opencensus_api": {
