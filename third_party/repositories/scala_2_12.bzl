@@ -278,28 +278,28 @@ artifacts = {
         "sha256": "e8b831a843c0eb5105d42e4b6febfc772b3aed3a853a899e6c8196e9ecc057df",
     },
     "scala_proto_rules_grpc_core": {
-        "artifact": "io.grpc:grpc-core:1.49.2",
-        "sha256": "f003088dc1b4cd4fb5322b2d1b82d16dca5fdd40b112788ce4631d296bbe9013",
+        "artifact": "io.grpc:grpc-core:1.52.1",
+        "sha256": "9df18d2d994646cc6dd847f91009badb391089a8b2007ceb3184e850224d630e",
     },
     "scala_proto_rules_grpc_api": {
-        "artifact": "io.grpc:grpc-api:1.49.2",
-        "sha256": "b7ee636de0278712d0c0b3707b1dee7af6a28b1286f9acf572b0357a64eeb6eb",
+        "artifact": "io.grpc:grpc-api:1.52.1",
+        "sha256": "33b4caca6d2264de556810247233753ad6c360c3d31fac59ca02e324084cf3f6",
     },
     "scala_proto_rules_grpc_stub": {
-        "artifact": "io.grpc:grpc-stub:1.49.2",
-        "sha256": "eaa9201896a77a0822e26621b538c7154f00441a51c9b14dc9e1ec1f2acfb815",
+        "artifact": "io.grpc:grpc-stub:1.52.1",
+        "sha256": "df93cb164e74b36e86068325a42287f28946804e0af1a9a8ea8fac127a6cfe0d",
     },
     "scala_proto_rules_grpc_protobuf": {
-        "artifact": "io.grpc:grpc-protobuf:1.49.2",
-        "sha256": "88cd0838ea32893d92cb214ea58908351854ed8de7730be07d5f7d19025dd0bc",
+        "artifact": "io.grpc:grpc-protobuf:1.52.1",
+        "sha256": "9e483b10e22d0f8fe61bef0c0cfd37cee7749741f7c66fe2e361d02ead88925c",
     },
     "scala_proto_rules_grpc_netty": {
-        "artifact": "io.grpc:grpc-netty:1.49.2",
-        "sha256": "8478333706ba442a354c2ddb8832d80a5aef71016e8a9cf07e7bf6e8c298f042",
+        "artifact": "io.grpc:grpc-netty:1.52.1",
+        "sha256": "529c3d172d8296895e500f7336f9e5aa170568cdbadfd8313c163d75853bd986",
     },
     "scala_proto_rules_grpc_context": {
-        "artifact": "io.grpc:grpc-context:1.49.2",
-        "sha256": "1f0546e18789f7445d1c5a157010a11bc038bbb31544cdb60d9da3848efcfeea",
+        "artifact": "io.grpc:grpc-context:1.52.1",
+        "sha256": "461abbaea6ff26ca5225d1a9c592a3bbe2a67248b2062eaf9f50d31a0fe88bab",
     },
     "scala_proto_rules_perfmark_api": {
         "artifact": "io.perfmark:perfmark-api:0.17.0",
